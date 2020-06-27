@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Users registration-Access</string>
+    <string name="desc" translatable="false">ImageBienvenida</string>
+    <string name="textBienvenida">WELCOME</string>
+    <string name="buttonRegistro">REGISTER</string>
+    <string name="buttonInicioSesion">LOGIN</string>
+    <string name="click_Registro">You have clicked on the Register button!</string>
+    <string name="datos_Registro">Enter registration data</string>
+    <string name="nombre_Registro">Name</string>
+    <string name="surname_Registro">Surname</string>
+    <string name="username_Registro">User name</string>
+    <string name="contraseña_Registro">Password</string>
+    <string name="email_Registro">Email</string>
+    <string name="enviar_datos_Registro">SEND DATA</string>
+    <string name="datos_inicio_sesion">Enter data</string>
+    <string name="entrar_inicio_sesion">Enter</string>
+    <string name="informacion_usuario">User information</string>
+    <string name="button_play" translatable="false">PLAY</string>
+    <string name="button_stop" translatable="false">STOP</string>
+    <string name="click_button_entrar">You pressed the enter button</string>
+    <string name="toast_usuario_registrado">Access allowed</string>
+    <string name="toast_usuario_no_registrado">Unable to log in. Unregistered user</string>
+</resources>

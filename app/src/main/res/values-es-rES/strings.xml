@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de Usuarios-Acceso</string>
+    <string name="textBienvenida">BIENVENID@</string>
+    <string name="buttonRegistro">REGISTRARSE</string>
+    <string name="buttonInicioSesion">INICIO SESIÓN</string>
+    <string name="click_Registro">Has hecho click en el botón Registro!</string>
+    <string name="datos_Registro">Introduzca datos de registro</string>
+    <string name="nombre_Registro">Nombre</string>
+    <string name="surname_Registro">Apellidos</string>
+    <string name="username_Registro">Nombre de usuario</string>
+    <string name="contraseña_Registro">Contraseña</string>
+    <string name="email_Registro">Email</string>
+    <string name="enviar_datos_Registro">ENVIAR DATOS</string>
+    <string name="datos_inicio_sesion">Introduzca datos</string>
+    <string name="entrar_inicio_sesion">Entrar</string>
+    <string name="informacion_usuario">Información de usuario</string>
+    <string name="button_play" translatable="false">PLAY</string>
+    <string name="button_stop">STOP</string>
+    <string name="click_button_entrar">Has pulsado el botón de entrar</string>
+    <string name="toast_usuario_registrado">Acceso admitido</string>
+    <string name="toast_usuario_no_registrado">No se ha podido iniciar sesión. Usuario no registrado</string>
+</resources>
